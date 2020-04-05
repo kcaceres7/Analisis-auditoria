@@ -1,0 +1,43 @@
+@font-face {
+    font-family: "BalooBhai2";
+    src: url("../fonts/Baloo_Bhai_2/BalooBhai2-Regular.ttf");
+  }
+
+  .html,body{
+    background: #E9ECEF;
+}
+
+.navbar-expand-sm{
+    background: #EF7E32 !important;
+}
+
+.navbar{
+  background: #C45911;
+}
+
+.btn-primary{
+    font-family: "BalooBhai2", BalooBhai2-Regular;
+    font-size: 20px;
+    color: #fff;
+    background: #EF7E32 !important;
+    border-color: #EF7E32 !important;
+    
+}
+  
+  .btn-primary:hover {
+    color: #fff ;
+    background-color: #EF7E32 !important;
+    border-color: #C45911 !important;
+  }
+  
+  .btn-primary:focus, .btn-primary.focus {
+    color: #fff;
+    background-color: #C45911 !important;
+    border-color: #C45911 !important;
+    box-shadow: 0 0 0 0.15rem #EF7E32 ;
+  }
+
+  .btn-primary:not(:disabled):not(.disabled):active:focus, .btn-primary:not(:disabled):not(.disabled).active:focus,
+.show > .btn-primary.dropdown-toggle:focus {
+  box-shadow: 0 0 0 0.15rem #EF7E32;
+}

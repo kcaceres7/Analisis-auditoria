@@ -1,0 +1,44 @@
+@font-face {
+    font-family: "BalooBhai2";
+    src: url("../fonts/Baloo_Bhai_2/BalooBhai2-Regular.ttf");
+  }
+
+  .contenido{
+    font-family: "BalooBhai2";
+  }
+
+.indiceS1{
+    width: 500px;
+    margin-top: 4vw;
+    margin-left: 3vw;
+    border: black 2px solid;
+    background:#FDE3D6 ;
+}
+
+.clasificacion{
+    margin-left: 5vw;
+    margin-right: 5wv; 
+}
+
+.AI{
+    margin-left: 5vw;
+    margin-right: 5wv;  
+}
+
+a, h3{
+margin-left: 3vw;
+font-family: "BalooBhai2";
+}
+
+h2, ol, ul{
+    margin-left: 3vw;
+}
+
+p{
+    margin-left: 3vw;
+    margin-right: 10vw;
+}
+
+.propietario{
+    font-size: 20px;
+}
